@@ -1,0 +1,41 @@
+----------HYPERPARAMETERS----------
+----MATCHING PICKLE FILE NO: 1----
+date / time: 18-01-2026 10:00:00
+window_size: 50
+no_batches: 40
+learning_rate: 0.001
+min_delta: 0.001
+l_error_weight: 50
+weights_decay: 0.0003
+epochs: 6000
+patience: 800
+no_neurons hidden layer 1: 20
+no_neurons hidden layer 2: 8
+undersampling: 150
+ORDER: 50
+LINEAR TRAIN FIT: 96.22%
+LINEAR TEST FIT: 94.95%
+NONLINEAR TRAIN FIT: 90.00%
+NONLINEAR TEST FIT: 64.46%
+
+
+----------HYPERPARAMETERS----------
+----MATCHING PICKLE FILE NO: 2----
+date / time: 01-04-2026 11:16:03
+window_size: 50
+no_batches: 40
+learning_rate: 0.0006
+min_delta: 0.001
+l_error_weight: 40
+weights_decay: 0.0003
+epochs: 8000
+patience: 500
+no_neurons hidden layer 1: 28
+no_neurons hidden layer 2: 8
+undersampling: 150
+ORDER: 50
+LINEAR TRAIN FIT: 93.54%
+LINEAR TEST FIT: 92.67%
+NONLINEAR TRAIN FIT: 90.54%
+NONLINEAR TEST FIT: 60.62%
+
